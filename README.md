@@ -1,4 +1,4 @@
-![c18bdd40-58d2-11ef-9487-cf711d52256e--minified](https://github.com/user-attachments/assets/64164288-314b-47dd-9ff2-7474654a4229)
+
 <table>
     <tr>
         <td style="width: 70%;">
