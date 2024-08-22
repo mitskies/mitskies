@@ -1,16 +1,26 @@
-## Hi there 👋
+<table>
+    <tr>
+        <td style="width: 70%;">
+            <img src="C:\Users\tetec\Downloads\c18bdd40-58d2-11ef-9487-cf711d52256e--minified.png" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 30%; vertical-align: middle;">
+            <p style="font-family: monospace; font-size: 80px;">    
+                
+      ♡  𝑺𝒕𝒆𝒉 (𝒎𝒊𝒕𝒔𝒌𝒊𝒆𝒔) ♡
+    
+</p>                                                                                                                            
+                                                                                                  
+                                                                                                    
+        
+    about me ★
 
-<!--
-**mitskies/mitskies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+    │ ♡ she/her - brazil - (pt/br and english)
+    │   → computer engineering (in progress) 
+    
+    │ ♡ learning
+    |    → ▸  python
+    |      ▸  html + css
+    |      ▸  data engineering
+    |      ▸  programming logic
+    |      ▸  english 
