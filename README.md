@@ -30,6 +30,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mitskies&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dracula)"
+      srcset="https://github-readme-stats.vercel.app/api?username=mitskies&show_icons=true&theme=dracula"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mitskies&show_icons=true"
