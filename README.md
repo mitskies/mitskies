@@ -26,16 +26,13 @@
     |      ▸  programming logic
     |      ▸  english 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mitskies&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dracula)"
-      srcset="https://github-readme-stats.vercel.app/api?username=mitskies&show_icons=true&theme=dracula"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mitskies&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: dracula)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mitskies&show_icons=true" />
-</picture>
+<a href="https://github.com/mitskies/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitskies&repo=github-readme-stats&theme=dracula" />
+</a>
+<a href="https://github.com/mitskies/mitskies.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=mitskies.github.io&theme=dracula" />
+</a>
+
+<br />
+<br />
   
