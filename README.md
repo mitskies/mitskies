@@ -28,14 +28,6 @@
     
 <a href="https://github.com/mitskies/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mitskies&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Steh's github stats" /></a> | <a href="https://github.com/mitskies/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitskies&layout=compact&theme=dracula&hide_border=true" /></a> 
 
-<a href="https://github.com/mitskies/github-readme-stats">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitskies&repo=github-readme-stats&theme=dracula" />
-</a>
-<a href="https://github.com/mitskies/mitskies.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=mitskies.github.io&theme=dracula" />
-</a>
-
 <br />
 <br />
   
