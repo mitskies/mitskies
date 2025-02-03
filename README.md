@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td style="width: 70%;">
-            <img src="[https://github.com/user-attachments/assets/64164288-314b-47dd-9ff2-7474654a4229](https://i.pinimg.com/736x/a3/9f/ff/a39fff64424d44f5daf8eba38b32e503.jpg)](https://i.pinimg.com/736x/a3/9f/ff/a39fff64424d44f5daf8eba38b32e503.jpg)" style="width:100%; border: none;"/>
+            <img src="https://github.com/mitskies/mitskies/blob/main/a39fff64424d44f5daf8eba38b32e503.jpg" style="width:100%; border: none;"/>
         </td>
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
