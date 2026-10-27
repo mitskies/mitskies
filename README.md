@@ -1,9 +1,9 @@
 <h2>Stephanie Cabral</h2>
 
-<p>Computer Engineering student · Aspiring Data & ML Engineer · Brazil</p>
+<p>Computer Engineering student · Aspiring Data · Brazil</p>
 
-Studying computer engineering with a focus on data engineering and machine learning.
-Currently building a foundation in Python, data pipelines, and AI — one project at a time.
+Studying computer engineering with a focus on data and eletronics engineering.
+Currently building a foundation in Python, data, and AI — one project at a time.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stehcabral-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stehcabral)
 [![Email](https://img.shields.io/badge/Email-decastrostephaniec@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:decastrostephaniec@gmail.com)
